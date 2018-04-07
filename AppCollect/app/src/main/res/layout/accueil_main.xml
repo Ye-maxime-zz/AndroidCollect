@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:id="@+id/ll_bar"
+        style="@style/LinearLayoutAcitonBar"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tv_bar"
+            style="@style/TextBarName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/app_name"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_bienvenue"
+        style="@style/TextBigTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ll_bar"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/margin_bottom_tv_bienvenue"
+        android:layout_marginTop="@dimen/margin_top_tv_bienvenue"
+        android:text="@string/bienvenue" />
+
+    <TextView
+        android:id="@+id/tv_identifiez"
+        style="@style/TextSmallTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_bienvenue"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/margin_bottom_tv_bienvenue"
+        android:text="@string/identifiez_vous" />
+
+    <Button
+        android:id="@+id/btn_facebook"
+        style="@style/ButtonGrey"
+        android:layout_below="@+id/tv_identifiez"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/margin_bottom_btn_facebook"
+        android:gravity="center"
+        android:text="@string/facebook" />
+
+    <Button
+        android:id="@+id/btn_telephone"
+        style="@style/ButtonGrey"
+        android:layout_below="@+id/btn_facebook"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/margin_bottom_btn_facebook"
+        android:gravity="center"
+        android:text="@string/telephone" />
+
+</RelativeLayout>
