@@ -14,6 +14,7 @@ public class ViewAccueil implements InterfaceViews {
     private View viewAccueil = null;
 
     private Button btn_facebook = null;
+    private Button btn_telephone = null;
 
     public ViewAccueil(ManagerInterface _mi){
         mi = _mi;
@@ -24,7 +25,8 @@ public class ViewAccueil implements InterfaceViews {
         boolean valid = false;
         try {
             viewAccueil         = mi.getView(ManagerInterface.TShowView.tsvAccueil);
-            btn_facebook = (Button) viewAccueil.findViewById(R.id.btn_facebook);
+            btn_facebook        = (Button) viewAccueil.findViewById(R.id.btn_facebook);
+            btn_telephone       = (Button) viewAccueil.findViewById(R.id.btn_telephone);
             btn_facebook.setOnClickListener(new BtnClickFacebook());
             valid = true;
         }catch (Exception e){
