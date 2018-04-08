@@ -17,14 +17,17 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
-        <activity android:name="com.nf28.collect.appcollect.SplashscreenActivity" >
+        <activity
+            android:name="com.nf28.collect.appcollect.SplashscreenActivity"
+            android:theme="@style/Theme.AppStartLoadTranslucent" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.nf28.collect.appcollect.MainActivity" />
+        <activity android:name="com.nf28.collect.appcollect.MainActivity" >
+        </activity>
 
         <provider
             android:name="com.android.tools.ir.server.InstantRunContentProvider"

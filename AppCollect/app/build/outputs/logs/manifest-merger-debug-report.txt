@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml:2:1-22:12
+ADDED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml:2:1-25:12
 MERGED from [com.android.support:design:27.1.0] /Users/admin/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/e9dde85c7cca74e030ee2100dfdf5231/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/bd76a33dd69a3047618b945dd9bd3b7b/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/admin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/1c08bd3e396576ccef25c8a9734515c5/AndroidManifest.xml:2:1-11:12
@@ -21,61 +21,63 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/admin/.gradle/ca
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/admin/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/a247a6422068f9f1afbed09ce2c69b32/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/admin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bbd38375b457318f3303293ec16d98ae/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] /Users/admin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/22d50a6a379b493c94fe09283de702e5/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml:2:1-25:12
 	package
-		ADDED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml:3:5-42
-		INJECTED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml
+		ADDED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml
-		ADDED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml:2:1-22:12
-		INJECTED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml
+		ADDED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml
-		ADDED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml:2:1-22:12
-		INJECTED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml
+		ADDED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml:5:5-20:19
+ADDED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml:5:5-23:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/admin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/1c08bd3e396576ccef25c8a9734515c5/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/admin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/1c08bd3e396576ccef25c8a9734515c5/AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml:8:9-32
+		ADDED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml:8:9-32
 	android:roundIcon
-		ADDED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml:11:9-65
+		ADDED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml:11:9-65
 activity#com.nf28.collect.appcollect.SplashscreenActivity
-ADDED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml:12:9-18:20
+ADDED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml:12:9-19:20
+	android:theme
+		ADDED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml:14:13-65
 	android:name
-		ADDED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml:12:19-55
+		ADDED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml:13:13-49
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml:13:13-17:29
+ADDED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml:15:13-18:29
 action#android.intent.action.MAIN
-ADDED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml:14:17-69
+ADDED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml:16:17-77
+ADDED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml:17:27-74
 activity#com.nf28.collect.appcollect.MainActivity
-ADDED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml:19:9-59
+ADDED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml:20:9-22:20
 	android:name
-		ADDED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml:19:19-47
+		ADDED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml:21:13-41
 uses-sdk
-INJECTED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml
-INJECTED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml
+INJECTED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml
+INJECTED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml
 MERGED from [com.android.support:design:27.1.0] /Users/admin/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/e9dde85c7cca74e030ee2100dfdf5231/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:design:27.1.0] /Users/admin/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/e9dde85c7cca74e030ee2100dfdf5231/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/bd76a33dd69a3047618b945dd9bd3b7b/AndroidManifest.xml:20:5-44
@@ -110,13 +112,13 @@ MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/admin/.gradle/caches/t
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/admin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bbd38375b457318f3303293ec16d98ae/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] /Users/admin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/22d50a6a379b493c94fe09283de702e5/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] /Users/admin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/22d50a6a379b493c94fe09283de702e5/AndroidManifest.xml:20:5-44
-INJECTED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml
-INJECTED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml
+INJECTED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml
+INJECTED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml
-		ADDED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml
+		ADDED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml
-		ADDED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/admin/AndroidStudioProjects/AppCollect/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml
+		ADDED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/AndroidCollect/AppCollect/app/src/main/AndroidManifest.xml
